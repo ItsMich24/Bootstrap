@@ -48,4 +48,4 @@ Estos son solo algunos ejemplos de los elementos que ofrece Bootstrap. En genera
 🍃Aprender a utilizar los elementos básicos de bootstrap🍃
 
 ## 4. Link a demo
-🌱Aquí puedes visualizar mi proyecto terminado: [Bootstrap](https://cerulean-cendol-1860e5.netlify.app)🌱
+🌱Aquí puedes visualizar mi proyecto terminado: [Bootstrap](https://lambent-kelpie-a9a46b.netlify.app/)🌱
